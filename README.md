@@ -1,6 +1,6 @@
 # Getting and cleaning data project
 
-#Introduction
+Introduction
 
 This Github repo contains my scripts for project course of Getting and cleaning data.
 In this project, data collected from the accelerometer and gyroscope of the Samsung Galaxy S smartphone was retrieved, worked with, and cleaned, to prepare a tidy data that can be used for later analysis.
@@ -10,7 +10,7 @@ CODEBOOK.md, that describes the variables, the data, and any transformations or 
 run_analysis.R, that describe how I run the analysis.
 tidy.txt, contains the tidy data set created as required.
 
-#Requirements for data analysis
+Requirements for data analysis
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
